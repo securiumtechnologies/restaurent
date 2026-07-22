@@ -1,0 +1,6 @@
+{
+  "name": "Savoria Bistro",
+  "description": "An immersive foodie dining experience uniting artisan pizza, royal biryani, wok hei noodles, and global culinary traditions with an interactive menu, photo gallery, chef stories, and online reservation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
